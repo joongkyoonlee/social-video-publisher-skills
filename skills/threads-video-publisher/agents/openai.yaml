@@ -1,0 +1,4 @@
+interface:
+  display_name: "Threads 영상 제작·게시"
+  short_description: "쓰레드 영상을 제작하고 설명·검수를 거쳐 Zernio로 게시합니다"
+  default_prompt: "Use $threads-video-publisher to create and verify a Threads video, then publish it through Zernio when requested."

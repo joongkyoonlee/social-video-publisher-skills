@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.env
+.env.*
+*.pem
+*.key
+token.json
+client_secret.json
+*.mp4
+*.mp3
+*.wav
+out/
+output/
+outputs/
+build/
+*.state.json
+publish-result.json

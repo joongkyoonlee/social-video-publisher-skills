@@ -1,0 +1,4 @@
+interface:
+  display_name: "YouTube Video Publisher"
+  short_description: "실사 영상으로 유튜브 콘텐츠를 제작·검수·게시합니다"
+  default_prompt: "Use $youtube-video-publisher to turn this source into a finished YouTube video and publish it after verification."
